@@ -1,0 +1,19 @@
+{
+  "name": "mas-hedging-website",
+  "version": "1.0.0",
+  "description": "MAS Hedging - Premium Non-Ferrous Metals Protection Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["hedging", "metals", "finance", "trading"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
