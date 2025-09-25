@@ -8,12 +8,12 @@
     "dev": "node server.js"
   },
   "keywords": ["hedging", "metals", "finance", "trading"],
-  "author": "Your Name",
+  "author": "Racko",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   }
 }
